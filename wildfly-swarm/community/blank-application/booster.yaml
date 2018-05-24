@@ -1,4 +1,4 @@
-name: WildFly Swarm -Application
+name: WildFly Swarm -Generic Application
 description: A generic wildfly application.
 source:
   git:
